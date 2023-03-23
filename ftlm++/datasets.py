@@ -89,4 +89,4 @@ def dream(path):
     trY = np.asarray(Y[0], dtype=np.int32)
     vaY = np.asarray(Y[1], dtype=np.int32)
     teY = np.asarray(Y[2], dtype=np.int32)
-    return (trX1, trX2, trX3, trX4, trX5, trY), (vaX1, vaX2, vaX3, vaX4, vaX5, vaY), (teX1, teX2, teX3, teX4, teX5),\
+    return (trX1, trX2, trX3, trX4, trX5, trY), (vaX1, vaX2, vaX3, vaX4, vaX5, vaY), (teX1, teX2, teX3, teX4, teX5)
